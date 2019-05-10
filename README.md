@@ -1,5 +1,5 @@
 # es-theme-Arcade1up-4x5-Vertical
-Arcade1up RetroPie / ES Theme for 4:5 Vertical Displays
+Arcade1up RetroPie / ES Theme for Vertical Displays
 
 Created by Justin Case based on code by Dwayne Hurst aka Hursty
 
